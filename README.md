@@ -94,3 +94,23 @@ Based on the [UCI Credit Card Default dataset](https://archive.ics.uci.edu/ml/da
 
 → Output: Default Probability: 72.4%
 ```
+
+
+📂 Project Structure
+
+📁 CreditCardDefaulters
+```
+├── data/
+│   ├── Credit_Card_train.csv
+├── models/
+│   ├── ft_transformer_model.h5
+├── notebooks/
+│   ├── eda_feature_engineering.ipynb
+│   ├── modeling_gridsearch_optuna.ipynb
+├── app.py           # Gradio Interface
+├── utils.py         # Claude API call + feature extractor
+└── README.md
+```
+
+
+
