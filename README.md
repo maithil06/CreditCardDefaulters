@@ -5,8 +5,6 @@ Predict credit card default risk directly from plain English using LLMs + deep t
 > Example input:  
 > “A 28-year-old man with a limit of 20,000 and late on his last 4 payments. Bills are rising and he pays only the minimum.”
 
-🔗 <video src="credit_default_demo.mp4" controls="controls" width="100%"/>
-
 ## 🚀 Overview
 
 This project turns a sentence into a risk score using:
