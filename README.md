@@ -2,6 +2,8 @@
 
 Predict credit card default risk directly from plain English using LLMs + deep tabular learning.
 
+https://github.com/user-attachments/assets/75fd8084-b015-4b5c-936f-ff76b06eee9c
+
 > Example input:  
 > “A 28-year-old man with a limit of 20,000 and late on his last 4 payments. Bills are rising and he pays only the minimum.”
 
